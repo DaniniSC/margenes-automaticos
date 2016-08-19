@@ -1,0 +1,16 @@
+body {
+	border-radius: 5px;
+	padding: 10px;
+}
+p {
+	text-align: center;
+}
+div {
+	border: 20px solid yellow;
+	padding: 20px 40px;
+	width: 200px;
+	margin: 10px;
+}
+.cajaInferior {
+	margin: 0 auto;
+}
